@@ -33,7 +33,6 @@ use "${datos}/cps09mar.dta", clear
 *       de hacer este proceso.
 
 
-**# 1 - Manejo de datos binario 
 
 describe 
 
